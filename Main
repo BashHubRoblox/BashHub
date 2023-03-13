@@ -1,2 +1,0 @@
-setclipboard("https://discord.gg/fm2CbP9HN9")
-game.Players.LocalPlayer:Kick("Script is in development. Discord Invite has been copied to clipboard.")
